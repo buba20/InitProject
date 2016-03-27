@@ -1,0 +1,13 @@
+{
+   "compileOnSave": true,
+   "compilerOptions": {
+       "noImplicitAny" : true,
+       "target": "es5",
+       "inlineSourceMap": true,
+       "watch": false
+   },
+    "exclude": [
+        "node_modules",
+        ".vscode"
+    ]
+}
